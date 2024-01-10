@@ -129,7 +129,7 @@ the saxophone source bases. I believe that this can be fixed with sparser decomp
 to construct a mask with more elements. However, running this shows a fairly successful proof of concept without using
 any machine learning.
 '''
-original, sax, rhythm, dur, sr = isolate_sax('Lady Bird.wav')
+original, sax, rhythm, dur, sr = isolate_sax('audio/Lady Bird.wav')
 t = np.linspace(0, dur, original.size)
 
 sd.play(original, sr)
