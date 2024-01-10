@@ -30,3 +30,7 @@ Overall, I would consider this a success in the sense that selecting bases are m
 - https://www.cs.jhu.edu/~ayuille/courses/Stat161-261-Spring14/HyvO00-icatut.pdf
 - Wang and Plumbley. "Musical Audio Stream Separation by Non-Negative Matrix Factorization," (2005).
 - Schmidt, Larsen and Hsiao "Wind Noise Reduction using Non-Negative Sparse Coding," (2007).
+
+
+##
+Vinith Yedidi, Jan 10 2024
