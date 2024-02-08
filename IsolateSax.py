@@ -96,7 +96,7 @@ def check_bases(D, H, phase, dur, sr):
 '''
 Method to consolidate all previous methods and separate the sax from the rhythm. The mask (for now) is applyed manually,
 derived from listening to each base with check_bases(). To brute-force the problem and provide greater accuracy, k is 
-set to 100, which makes checking bases tedious. I hope to solve this by automating it with machine learning.
+set to 50, which makes checking bases tedious. I hope to solve this by automating it with machine learning.
 '''
 def isolate_sax(filename):
     y, dur, sr = read_audio(filename)
